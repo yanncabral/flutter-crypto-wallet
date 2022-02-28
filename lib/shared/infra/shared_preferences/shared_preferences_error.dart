@@ -1,0 +1,4 @@
+enum SharedPreferencesError {
+  notFound,
+  unexpected,
+}
