@@ -1,3 +1,4 @@
+
 # Transfero wallet using an ERC-20 smart contract
 
 A digital wallet app, developed in dart language and flutter framework with solidity. The idea is to undertand how to build decentralized apps using blockchain and associated technologies. This app can transfer tokens from one wallet to another, through an ERC-20 Ethereum contract.
@@ -10,10 +11,9 @@ A digital wallet app, developed in dart language and flutter framework with soli
 - [Solidity](https://github.com/allanclempe/ether-wallet-contract) smart contract
 - [CoinApi](https://docs.coinapi.io/?php#list-all-exchange-icons-get) to display exchange rates 
 
-|                              Wallet                              |                              Change network                              |                                Transfer tokens                                |
-| :--------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| ![Onboarding](https://github.com/yanncabral/transfero/blob/main/images/one.png?raw=true) | ![Home Page](https://github.com/yanncabral/transfero/blob/main/images/two.png?raw=true) | ![Receive tokens](https://github.com/yanncabral/transfero/blob/main/images/three.png?raw=true) |
- ![Transfer tokens](https://github.com/yanncabral/transfero/blob/main/images/four.png?raw=true) 
+|Onboarding|Wallet|Receive Tokens|Send Tokens|
+|---|--|--|--|
+|![Onboarding](https://github.com/yanncabral/transfero/blob/main/images/one.png?raw=true)|![Wallet](https://github.com/yanncabral/transfero/blob/main/images/two.png?raw=true)|![Receive Tokens](https://github.com/yanncabral/transfero/blob/main/images/three.png?raw=true)|![Send Tokens](https://github.com/yanncabral/transfero/blob/main/images/four.png?raw=true)|
 
 ### Getting started
 How to run the app
@@ -23,7 +23,7 @@ $ flutter pub get packages
 $ flutter run
 ```
 
-Create an wallet and get tokens from https://faucet.clempe.dev
+Create a wallet and get tokens from https://faucet.clempe.dev
 
 ### Demo
 
