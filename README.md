@@ -1,7 +1,7 @@
 
 # Transfero wallet using an ERC-20 smart contract
 
-A digital wallet app, developed in dart language and flutter framework with solidity. The idea is to undertand how to build decentralized apps using blockchain and associated technologies. This app can transfer tokens from one wallet to another, through an ERC-20 Ethereum contract.
+A digital wallet app, developed in dart language and flutter framework with solidity. The idea is to understand how to build decentralized apps using blockchain and associated technologies. This app can transfer tokens from one wallet to another, through an ERC-20 Ethereum contract.
 
 ### What's being used
 
