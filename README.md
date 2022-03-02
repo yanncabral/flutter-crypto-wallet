@@ -23,6 +23,8 @@ $ flutter pub get packages
 $ flutter run
 ```
 
+Create an wallet and get tokens from https://faucet.clempe.dev
+
 ### Demo
 
 Coming soon
