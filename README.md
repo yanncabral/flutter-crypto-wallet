@@ -1,16 +1,28 @@
-# transfero
+# Transfero wallet using an ERC-20 smart contract
 
-A new Flutter project.
+A digital wallet app, developed in dart language and flutter framework with solidity. The idea is to undertand how to build decentralized apps using blockchain and associated technologies. This app can transfer tokens from one wallet to another, through an ERC-20 Ethereum contract.
 
-## Getting Started
+### What's being used
 
-This project is a starting point for a Flutter application.
+- Built in [Flutter](https://flutter.dev/docs/get-started/install) framework
+- [Web3Dart](https://github.com/simolus3/web3dart) to interact with Ethereum blockchain
+- [Flutter hooks](https://github.com/rrousselGit/flutter_hooks) to manage widget life-cycle.
+- [Solidity](https://github.com/allanclempe/ether-wallet-contract) smart contract
+- [CoinApi](https://docs.coinapi.io/?php#list-all-exchange-icons-get) to display exchange rates 
 
-A few resources to get you started if this is your first Flutter project:
+|                              Wallet                              |                              Change network                              |                                Transfer tokens                                |
+| :--------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| ![Onboarding](https://github.com/yanncabral/transfero/blob/main/images/one.png?raw=true) | ![Home Page](https://github.com/yanncabral/transfero/blob/main/images/two.png?raw=true) | ![Receive tokens](https://github.com/yanncabral/transfero/blob/main/images/three.png?raw=true) |
+ ![Transfer tokens](https://github.com/yanncabral/transfero/blob/main/images/four.png?raw=true) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Getting started
+How to run the app
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+$ flutter pub get packages
+$ flutter run
+```
+
+### Demo
+
+Coming soon
